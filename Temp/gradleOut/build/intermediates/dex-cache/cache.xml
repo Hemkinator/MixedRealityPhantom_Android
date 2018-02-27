@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\mhemker\.android\build-cache\3a659bfd71232a85084b6a04745c31f04365f528\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e29373b760f2999cd878625efe4641edd156a3d0">
+        <dex dex="D:\mhemker\MixedRealityPhantom - Copy\Temp\gradleOut\build\intermediates\pre-dexed\release\classes_0603011ff1e62ff55a94242bb0b849806fb89767.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\mhemker\MixedRealityPhantom - Copy\Temp\gradleOut\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="997bed8c5290bdbae5c8767ba09af501f19e1c08">
+        <dex dex="D:\mhemker\MixedRealityPhantom - Copy\Temp\gradleOut\build\intermediates\pre-dexed\release\unity-classes_1b61ad04a870ae4929223eff67e653c73567f6a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mhemker\.android\build-cache\3a659bfd71232a85084b6a04745c31f04365f528\output\jars\libs\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53094572566d88f826439518bd3ff774b3ed36cb">
+        <dex dex="D:\mhemker\MixedRealityPhantom - Copy\Temp\gradleOut\build\intermediates\pre-dexed\release\Vuforia_0c05ad62c3bf29d323029bee4e4c0054ab3d73b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mhemker\.android\build-cache\3a659bfd71232a85084b6a04745c31f04365f528\output\jars\libs\VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e5c98f1d2f1973f9a08b7849f319bcb135fe8c3">
+        <dex dex="D:\mhemker\MixedRealityPhantom - Copy\Temp\gradleOut\build\intermediates\pre-dexed\release\VuforiaUnityPlayer_ff0834106fb544e034a9dfbb8f7d9ce52be74b9a.jar" />
+    </item>
+
+</items>
